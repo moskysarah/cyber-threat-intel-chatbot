@@ -26,3 +26,5 @@ Ouvre `index.html` dans ton navigateur. Aucune installation requise.
 - Quiz interactifs par module
 - Barre de progression
 - Tip de sécurité du jour
+
+**👉 [Visit Agent Cybersec](https://customer-assets.emergentagent.com/wingman/a0a2ba01-e3c6-41a2-a6fc-35f6f013491d/attachments/755f17fc45a44a4eb85e525ad111e873_index.html)**
